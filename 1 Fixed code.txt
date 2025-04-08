@@ -1,0 +1,18 @@
+<html lang="en">
+<head>
+    <title>Document</title> <!-- Correctly closing the title tag -->
+</head>
+<body> <!-- Moving body tag outside of the title tag -->
+    <h1>Guvi</h1> <!-- Content should be inside the body, added a heading for clarity -->
+    
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        <div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
